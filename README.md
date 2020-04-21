@@ -10,7 +10,6 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 ## :rocket: Tecnologias
@@ -31,10 +30,6 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 1. Entre na pasta do frontend: ```cd github-explorer```
 2. Rode ```yarn``` para instalar as dependências
 3. Rode ```yarn start``` para iniciar o cliente
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
